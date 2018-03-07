@@ -1,0 +1,15 @@
+//
+//  Synaptics ONX mtouch Driver
+///////////////////////////////////////////////////////////
+
+v 1.0.3 Mar 06, 2017
+   - adopt the Apache License 2.0
+   
+v 1.0.2 Mar 18, 2017
+   - support bootloader v7/8
+   
+v 1.0.1 Feb 08, 2017
+   - support RMI interface
+   - touch report
+   - support firmware update
+   - support bootloader v5/6
